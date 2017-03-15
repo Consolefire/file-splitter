@@ -1,0 +1,3 @@
+
+java -Dcom.apple.mrj.application.apple.menu.about.name=FileSplitter -Dapple.laf.useScreenMenuBar=true -jar gsplit-0.0.3.jar
+
