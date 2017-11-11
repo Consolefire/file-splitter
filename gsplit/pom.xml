@@ -18,6 +18,10 @@
 		<bin.dir>../bin</bin.dir>
 		<help.dir>../help</help.dir>
 		<assembler.home.dir>../assembler</assembler.home.dir>
+
+		<!-- Github Properties -->
+		<github.global.server>github</github.global.server>
+        <email>sabuj.das@gmail.com</email>
 	</properties>
 
 	<repositories>
@@ -25,7 +29,7 @@
 			<id>consolefire</id>
 			<url>https://raw.github.com/Consolefire/swing-helper/mvn-repo</url>
 			<snapshots>
-				<enabled>false</enabled>
+				<enabled>true</enabled>
 			</snapshots>
 		</repository>
 	</repositories>
